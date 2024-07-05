@@ -8,3 +8,6 @@ func main() {
 func vishwas() {
 	fmt.Println("hello pranav")
 }
+func day2() {
+	fmt.Println("test2")
+}
